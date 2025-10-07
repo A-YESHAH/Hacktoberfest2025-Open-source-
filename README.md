@@ -1,6 +1,10 @@
 # Hactoberfest 2024
-<img src=https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg />
-A beginner-friendly project to help you in open-source contribution. Made specifically for contribution in HACKTOBERFEST 2024! Hello World Programs and Algorithms! Please leave a star to support this project! 
+<p align="center">
+  <img src="logo-hacktoberfest-12--nav.0ac01b46.svg" alt="Hacktoberfest Logo" width="300"/>
+</p>
+  A beginner-friendly project to help you in open-source contribution.<br>
+  Made specifically for contribution in <b>HACKTOBERFEST 2024!</b><br>
+  Hello World Programs and Algorithms! Please leave a star to support this project!
 ![](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
 # This All programs For beginner 
